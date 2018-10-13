@@ -1,12 +1,12 @@
 # COSC_Hacktoberfest_Overflow_PIS
 Pass Issuer System for issuing Gate Pass for Students in colleges by Team Overflow at Hacktoberfest by COSC at CBIT on October 13, 2018
 ## Description
- project name : Pass Issuer System
- Platform : Repository on Github
- Technology : 
- Front End -HTML,CSS,Javascript
- Back End - Mysql
- Scripting language - PHP
+ project name : Pass Issuer System\
+ Platform : Repository on Github\
+ Technology : \
+ Front End -HTML,CSS,Javascript\
+ Back End - Mysql\
+ Scripting language - PHP\
 
 
 
