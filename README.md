@@ -6,7 +6,7 @@ Pass Issuer System for issuing Gate Pass for Students in colleges by Team Overfl
  Technology : \
  Front End -HTML,CSS,Javascript\
  Back End - Mysql\
- Scripting language - PHP\
+ Scripting language - PHP
 
 
 
