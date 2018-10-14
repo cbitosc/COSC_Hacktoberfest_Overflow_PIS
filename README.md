@@ -18,4 +18,5 @@ Pass Issuer System for issuing Gate Pass for Students in colleges by Team Overfl
 1. [Bhanu Prasad](https://github.com/scynit)
 1. [surya](https://github.com/dutasuryaprakash)
 1. [sandeep](https://github.com/sanjusandyaj)
-
+1. [vineel](https://github.com/vineel98)
+1. [Sangeeth](https://github.com/sangeethragi)
